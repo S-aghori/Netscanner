@@ -30,19 +30,19 @@ Host Discovery → Port Scan → Banner Grab → CVE Lookup → Exploit → HTML
 ## 📸 Screenshots
 
 ### 1. Scanner Running — 12 Open Ports Found
-![Scanner Running](screenshots/The Scanner Running.png)
+![Scanner Running](screenshots/The_Scanner_Running.png)
 
 ### 2. CVE Lookup — Auto Vulnerability Detection
-![CVE Lookup](screenshots/CVE Lookup Output.png)
+![CVE Lookup](screenshots/CVE%20Lookup%20Output.png)
 
 ### 3. ROOT Shell — uid=0(root)
-![ROOT Shell](screenshots/ROOT Shell.png)
+![ROOT Shell](screenshots/ROOT%20Shell.png)
 
 ### 4. Password Cracking — /etc/shadow Dumped
-![Password Cracking](screenshots/Password Cracking.png)
+![Password Cracking](screenshots/Password%20Cracking.png)
 
 ### 5. HTML Pentest Report — Auto Generated
-![HTML Report](screenshots/HTML Pentest Report.png)
+![HTML Report](screenshots/HTML%20Pentest%20Report.png)
 
 ---
 
